@@ -13,6 +13,9 @@ import { MainComponent } from './main.component';
   imports: [
     CommonModule,
     RouterModule
+  ],
+  exports: [
+    MainComponent
   ]
 })
 export class MainModule { }
