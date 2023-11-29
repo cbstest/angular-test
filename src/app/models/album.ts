@@ -1,4 +1,4 @@
-import {IAlbum} from "../interfaces/albums.interface";
+import {IAlbum} from "../interfaces/album";
 
 export class Album implements IAlbum {
   public readonly id: number = 0;
