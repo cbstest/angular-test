@@ -1,0 +1,13 @@
+:host {
+    display: flex;
+    justify-content: center;
+    background-color: purple;
+    min-height: 70px;
+
+
+    .header-title {
+        font-size: 36px;
+        text-align: center;
+        color: white;
+    }
+}
